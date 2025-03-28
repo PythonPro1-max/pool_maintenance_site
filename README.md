@@ -40,4 +40,3 @@ After uploading your files, you can view your website at:
 
 ---
 
-This README gives visitors and developers an overview of your project. Want me to add anything else? 😊
