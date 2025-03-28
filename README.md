@@ -1,5 +1,3 @@
-Here's a simple README file for your pool maintenance website:  
-
 ---
 
 ### **K.S.S. Enterprises - Pool Maintenance Website**  
